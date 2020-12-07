@@ -1,0 +1,2 @@
+# Template for the HR-SC505 PIR Sensor, or any generic PIR sensor with a simple I/O Trigger pin.
+{"NAME":"HR-SC505","GPIO":[0,0,0,0,0,0,0,0,0,0,0,0,192,0],"FLAG":0,"BASE":18}
